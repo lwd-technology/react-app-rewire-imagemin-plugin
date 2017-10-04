@@ -1,4 +1,4 @@
-# react-app-rewire-appcache-plugin
+# react-app-rewire-imagemin-plugin
 
 Add [`imagemin-webpack-plugin`](https://github.com/Klathmon/imagemin-webpack-plugin) to a [`react-app-rewired`](https://github.com/timarney/react-app-rewired) config.
 
