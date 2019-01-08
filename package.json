@@ -31,7 +31,7 @@
   "homepage":
     "https://github.com/lwd-technology/react-app-rewire-imagemin-plugin#readme",
   "dependencies": {
-    "imagemin-webpack-plugin": "^1.5.2"
+    "imagemin-webpack-plugin": "^2.4.0"
   },
   "devDependencies": {
     "eslint": "^4.7.0",
